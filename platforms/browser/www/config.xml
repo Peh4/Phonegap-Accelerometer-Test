@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bsdmasterindex.phonegapaccelerometer-test" version="1.2.1" versionCode="10" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Phonegap Accelerometer test</name>
+    <description>Simple Accelerometer test.</description>
+    <author email="jessemonroy650@yahoo.com" href="http://bsdmasterindex.com">
+        Jesse Monroy
+        </author>
+    <gap:platform name="android" />
+    <gap:platform name="ios" />
+    <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
+    <gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+    <preference name="phonegap-version" value="3.5.0" />
+    <preference name="permissions" value="none" />
+</widget>
